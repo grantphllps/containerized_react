@@ -2,7 +2,7 @@
 
 ## Web App
 
-Create a react app. If you already have one then skip to the "Dockerfile" section, or you can use the template in this repo for a blank project. Otherwise you can create an app with `npx create-react-app my-app`
+Create a react app. If you already have one then skip to the "Dockerfile" section. Otherwise you can create an app with `npx create-react-app my-app`
 
 ## Dockerfile
 
